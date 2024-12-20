@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-item {
+  background: rgba(252, 251, 251, 0.089);
+}
+
+.icon-item {
+  background: rgba(15, 11, 11, 0.185);
+}
+
+.box-item {
+  background: rgba(15, 11, 11, 0.651);
+}
